@@ -12,12 +12,12 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/buraqoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="buraqoli" height="30" width="40" /></a>
+<!--<a href="https://twitter.com/buraqoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="buraqoli" height="30" width="40" /></a>-->
 <a href="https://linkedin.com/in/burakoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burakoli" height="30" width="40" /></a>
-<a href="https://fb.com/burak.mooniron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="burak.mooniron" height="30" width="40" /></a>
-<a href="https://instagram.com/burak_mooniron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="burak_mooniron" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCGb9Pl02H32-LbK2qt7qJ-Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="burakoli" height="30" width="40" /></a>
-<a href="https://discord.gg/Qyqjaqt6C2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Qyqjaqt6C2" height="30" width="40" /></a>
+<!--<a href="https://fb.com/burak.mooniron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="burak.mooniron" height="30" width="40" /></a>-->
+<a href="https://instagram.com/burakoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="burak_mooniron" height="30" width="40" /></a>
+<!--<a href="https://www.youtube.com/channel/UCGb9Pl02H32-LbK2qt7qJ-Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="burakoli" height="30" width="40" /></a>-->
+<!--<a href="https://discord.gg/Qyqjaqt6C2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Qyqjaqt6C2" height="30" width="40" /></a>-->
 </p>
 
 <br>
