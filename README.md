@@ -11,14 +11,13 @@ I like writing clean, reusable code, and I'm always learning new ways to make ga
 
 **Games**
 
-• [Fruit Fall](https://play.google.com/store/apps/details?id=com.forkgames.mergeparty)
-• [Tiny Blocks](https://play.google.com/store/apps/details?id=com.forkgames.tinyblocks)
-• [Checkout Chaos](https://play.google.com/store/apps/details?id=com.forkgames.checkoutchaos)
-• [Fuel Up!](https://play.google.com/store/apps/details?id=com.forkgames.fuelup)
+- [Fruit Fall](https://play.google.com/store/apps/details?id=com.forkgames.mergeparty)
+- [Tiny Blocks](https://play.google.com/store/apps/details?id=com.forkgames.tinyblocks)
+- [Checkout Chaos](https://play.google.com/store/apps/details?id=com.forkgames.checkoutchaos)
+- [Fuel Up!](https://play.google.com/store/apps/details?id=com.forkgames.fuelup)
 
 **Tools & Tech**
 
-• Unity, C#
-• Blender for 3D modeling
-• Python for side experiments
-• Git, Unity Version Control
+- Unity, C#, Blender
+- Python for side experiments
+- Git, Unity Version Control
